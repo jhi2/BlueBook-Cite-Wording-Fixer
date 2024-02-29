@@ -18,6 +18,9 @@ header = ttk.Label(window,text="JohnnyTech LLDF BlueBook Cite Wording Fixer")
 brokencite = tk.Text(window,text="Enter your bad cite here...")
 print("Definiiing varibles...")
 def fixcite():
+    print("Making varribles global...")
+    global config,spacewords
+    
     
 fixbutton = ttk.Button(window,text="Fix this cite")
 
