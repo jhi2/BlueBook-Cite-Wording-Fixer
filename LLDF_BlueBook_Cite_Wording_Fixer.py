@@ -55,7 +55,7 @@ def setcharlimit(value):
     
     
 print("Initalizing GUI elements...")   
-fixbutton = ttk.Button(window,text="Fix this cite",command=lambda: fixcite())
+fixbutton = ttk.Button(window,text="Fix this cite",command=lambda: fixcite(), style='Accent.TButton')
 print("Applying GUI elements...")
 header.pack()
 brokencite.pack()
