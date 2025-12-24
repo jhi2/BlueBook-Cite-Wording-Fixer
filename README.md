@@ -33,6 +33,6 @@ So, in the end, you may still need to consult the Bluebook, but
 JohnnyTech hopes this tool helps you have to use it less to perfect  
 your legal writing!
 
-_If you find any errors in the database or have suggestions for improvement, please contact  [support@bluebook.johnnytech.net](mailto:support@bluebook.johnnytech.net)_
+_If you find any errors in the database or have suggestions for improvement, please contact  [support@bluebook.johnnytech.net](mailto:support@bluebook.johnnytech.net)_ WARNING: THIS EMAIL IS OBSOLETE.
 
 *Other abbreviations this tool will check for: Paragraph and section symbols instead of the words; 2nd to 2d and 3rd to 3d; the abbreviation for U.S.C.; and the names of all major U.S. law schools
