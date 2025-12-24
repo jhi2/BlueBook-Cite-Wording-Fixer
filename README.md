@@ -1,3 +1,4 @@
+#WARNING: THIS TOOL IS NOW OBSOLETE. FOR THE LATEST TABLE AND FEATURES, PLEASE VISIT THE NEW [WEB APP](https://bluebook.johnnytech.net)
 # JohnnyTech BlueBook Cite Abbreviation Fixer
 
 Have you ever spent the precious hours just before a deadline frantically proofing your brief, trying to remember if you're supposed to abbreviate governmental, steamship, partnership, or Alaska and flipping through your Bluebook tables to figure out the answer? (To save you some searching: No, yes, yes, no.) This Bluebook Cite Abbreviation Fixer has been designed to help lawyers, law students, and other legal professionals speed up the proofreading on their legal writing. Now, instead of wasting time searching out each and every word in your cite, you can just copy and paste your full citation into this simple tool and it will abbreviate all the words for you.
